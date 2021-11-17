@@ -1,5 +1,4 @@
 # hello-world
 first repository
 
-Hi there! My name is Helen and I am a third year student studying Biology at University of Waterloo.
-It is good to be working in Western University!
+Hi there! My name is Helen and I am a first year graduate student in Molecular Genetics at U of T.
